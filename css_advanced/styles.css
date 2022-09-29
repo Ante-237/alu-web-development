@@ -365,3 +365,311 @@ footer {
     left: 0px;
     top: 3469px;
 }
+
+/* F.A.Q */
+
+.askquestion {
+    position: absolute;
+    height: 75px;
+    left: 44.24%;
+    right: 40.98%;
+    top: calc(50% - 75px/2 - 316px);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 75px;
+    text-align: center;
+    color: #071629;
+}
+
+.askquestion00 {
+    position: absolute;
+    width: 920px;
+    height: 707px;
+    left: 249px;
+    top: 2678px;
+}
+
+.askquestion01 {
+    position: absolute;
+    left: 0%;
+    right: 61.96%;
+    top: 21.07%;
+    bottom: 44.7%;
+}
+.ask01 {
+    position: absolute;
+    height: 20px;
+    left: 0%;
+    right: 58.57%;
+    top: calc(50% - 20px/2 - 111px);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #071629;
+}
+
+.ask001 {
+    position: absolute;
+    height: 192px;
+    left: 0%;
+    right: 0%;
+    top: calc(50% - 192px/2 + 25px);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+
+
+    color: rgba(7, 22, 41, 0.501584);
+}
+
+.askquestion02 {
+    position: absolute;
+    left: 61.96%;
+    right: 0%;
+    top: 21.07%;
+    bottom: 44.7%;
+}
+
+.askquestion03 {
+    position: absolute;
+    left: 0%;
+    right: 61.96%;
+    top: 65.77%;
+    bottom: 0%;
+}
+
+.askquestion04 {
+    position: absolute;
+    left: 61.96%;
+    right: 0%;
+    top: 65.77%;
+    bottom: 0%;
+}
+
+
+
+.members {
+    position: absolute;
+    width: 1440px;
+    height: 502px;
+    left: 0px;
+    top: 2109px;
+}
+
+.members00 {
+    position: absolute;
+    height: 40px;
+    left: 42.85%;
+    right: 40.9%;
+    top: calc(50% - 40px/2 - 161px);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    color: #C271FF;
+}
+
+.member_buttons {
+    position: absolute;
+    left: 44.38%;
+    right: 44.38%;
+    top: 80.88%;
+    bottom: 10.36%;
+    filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
+}
+
+.member_buttons00 {
+    position: absolute;
+    height: 18px;
+    left: 13.27%;
+    right: 12.04%;
+    top: calc(50% - 18px/2);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.members01 {
+    position: absolute;
+    left: 11.39%;
+    right: 70.76%;
+    top: 33.47%;
+    bottom: 36.06%;
+}
+
+.members02 {
+    position: absolute;
+    left: 31.11%;
+    right: 51.04%;
+    top: 33.47%;
+    bottom: 36.06%;
+}
+
+.members03 {
+    position: absolute;
+    left: 50.9%;
+    right: 31.25%;
+    top: 33.47%;
+    bottom: 36.06%;
+}
+
+.members04 {
+    position: absolute;
+    left: 70.76%;
+    right: 11.39%;
+    top: 33.47%;
+    bottom: 36.06%;
+}
+
+.members_pic {
+    position: absolute;
+    width: 43.67px;
+    height: 35.35px;
+    left: 106.71px;
+    top: 0.03px;
+}
+
+.members_tk00 {
+    position: absolute;
+    height: 26px;
+    left: 0.19%;
+    right: 0.19%;
+    top: calc(50% - 26px/2 - 1.5px);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+    /* identical to box height, or 144% */
+
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.members_tk01 {
+    position: absolute;
+    height: 52px;
+    left: 8.75%;
+    right: 8.75%;
+    top: calc(50% - 52px/2 + 50.5px);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    /* or 186% */
+
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.tutorial {
+    position: absolute;
+    height: 40px;
+    left: 39.25%;
+    right: 36.81%;
+    top: calc(50% - 40px/2 - 205px);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    color: #071629;
+}
+
+.video0 {
+    position: absolute;
+    width: 1228px;
+    height: 450px;
+    left: 106px;
+    top: 1572px;
+}
+
+
+.video00 {
+    position: absolute;
+    left: 4.72%;
+    right: 74.51%;
+    top: 25.56%;
+    bottom: 0%;
+}
+
+.video01 {
+    position: absolute;
+    left: 28.01%;
+    right: 51.22%;
+    top: 25.56%;
+    bottom: 0%;
+}
+
+.video02 {
+    position: absolute;
+    left: 51.22%;
+    right: 28.01%;
+    top: 25.56%;
+    bottom: 0%;
+}
+
+.video03 {
+    position: absolute;
+    left: 74.43%;
+    right: 4.8%;
+    top: 25.56%;
+    bottom: 0%;
+}
+
+.testi {
+    position: absolute;
+    width: 1440px;
+    height: 392px;
+    left: -1px;
+    top: 1093px;
+}
+
+.testi00 {
+    position: absolute;
+    width: 943px;
+    height: 160px;
+    left: 259px;
+    top: 1201px;
+}
+
+.testi_text {
+    position: absolute;
+    width: 730px;
+    height: 158px;
+    left: 472px;
+    top: 1203px;
+}
+
+.testi_color {
+    position: absolute;
+    width: 1440px;
+    height: 392px;
+    left: -1px;
+    top: 1093px;
+    background: #C271FF;
+}
+
+.avater {
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    left: 259px;
+    top: 1201px;
+}
